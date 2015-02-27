@@ -69,50 +69,62 @@ The entire palette for the app stems from these main colors:
 ### App sections
 
 ## Onboarding
+(add this)
 
 ## Home & Login
 
-### The Login screen
+### Login screen
 
-#### Styles
+#### Login
+
 ![image](images/Login.png)
+
+##### Login - Error
 
 ![image](images/Login - Error.png)
 
 ### Home Screen
 
-#### Styles
+#### Home Screen
 
 ![image](images/Home Window.png)
 
 ### Starting a call
 
-#### Styles
+#### Start a call
+
 ![image](images/Home Window - Start Call.png)
-Start a call
+
+#### Recent calls
 
 ![image](images/Home Window - Recent calls.png)
-Recent Calls
+
+#### New Call - Recent callers
 
 ![image](images/Add a User - 02 - Recent.png)
-New Call - Recent callers
+
+#### New Call - Autosuggest
 
 ![image](images/Add a User - 03 - Suggest.png)
-New Call - Autosuggest
+
+#### New Call - Copy Link
 
 ![image](images/Add a User - 03 - Suggest 2.png)
-New Call - Copy Link
+
+#### Receiving a call
+
+![image](images/Receiving a call.png)
+
 
 ## In-call
 
-### App parts
-
-
 ### The Toolbar
+
+#### Single user
+![image](images/Toolbar - Single user in call.png)
 
 
 ### The Thumbnail Bar
-
 
 
 ## Manipulating Personas
