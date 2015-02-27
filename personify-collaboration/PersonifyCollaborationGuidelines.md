@@ -68,9 +68,6 @@ The entire palette for the app stems from these main colors:
 
 ### App sections
 
-## Onboarding
-(add this)
-
 ## Home & Login
 
 ### Login screen
@@ -231,3 +228,23 @@ When I'm done, I press the "stop" button and the video gets uploaded.
 While the file uploads, I can share the video, or copy the link to it.
 
 ![image](images/Sharing Video.png)
+
+## Onboarding
+
+### Home (first use)
+
+![image](images/Onboarding - Home.png)
+
+![image](images/Onboarding - Home markly.png)
+
+### In-call (first use)
+
+![image](images/Onboarding - In-call.png)
+
+![image](images/Onboarding - In-call markly.png)
+
+### Recording (first use)
+
+![image](images/Onboarding - Recording.png)
+
+![image](images/Onboarding - Recording markly.png)
